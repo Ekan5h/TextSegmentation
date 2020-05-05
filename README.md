@@ -1,5 +1,6 @@
 # TextSegmentation
-Using Otsu's thresholding for text segmentation on images of sticky notes.
+Using Otsu's thresholding for text segmentation on images of **sticky notes**.
+
 Assumptions
  * The image has a dark background below the paper
  * The writing is darker than the paper.
